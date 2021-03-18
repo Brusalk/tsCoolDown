@@ -24,8 +24,8 @@
   "tstl": {
     "luaTarget": "5.1",
     "luaPlugins": [ 
-      {"name": "@brusalk/react-wow-addon", "import": "WowJsxTransformer"},
-      {"name": "@brusalk/react-wow-addon", "import": "RequirePreload"},
+      {"name": "@brusalk/react-wow-addon/tstl_plugins", "import": "WowJsxTransformer"},
+      {"name": "@brusalk/react-wow-addon/tstl_plugins", "import": "RequirePreload"},
     ]
   }
 }

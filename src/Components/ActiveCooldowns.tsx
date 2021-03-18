@@ -1,4 +1,6 @@
+/** @noResolution */
 import * as ReactWowAddon from '@brusalk/react-wow-addon';
+
 import { Cooldown } from './Cooldown';
 import { subscribe } from '../utils/cooldowns';
 import { ConfigAnchor } from './config/ConfigAnchor';

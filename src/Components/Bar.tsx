@@ -7,6 +7,8 @@ import {
   BAR_SIZE
 } from '../utils/constants';
 
+
+
 const TEXT_COLOR: JSX.Color4 = [1, 0.82, 0, 1];
 const PROGRESS_BAR_COLOR: JSX.Color4 = [0.4, 0.4, 0.95, 1];
 const PROGRESS_BAR_SIZE: JSX.Size = [70, 22];

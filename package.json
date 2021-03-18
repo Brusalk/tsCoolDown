@@ -15,7 +15,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@brusalk/react-wow-addon": "^1.0.3",
+    "@brusalk/react-wow-addon": "file:../react-wow-addon",
     "@wartoshika/wow-declarations": "^8.3.0-release.1",
     "lua-types": "^2.8.0",
     "ts-node": "^9.0.0",
